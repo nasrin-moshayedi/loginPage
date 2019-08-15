@@ -8,13 +8,11 @@
     "rc-form-validation": "^2.5.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
-
     "react-inputs-validation": "^3.3.0",
-
+    "react-material-ui-form-validator": "^2.0.9",
     "react-phone-number-input": "^2.3.21",
-
     "react-router": "^5.0.1",
-
+    "react-router-dom": "^5.0.1",
     "react-scripts": "3.1.0",
     "redux": "^4.0.4"
   },
