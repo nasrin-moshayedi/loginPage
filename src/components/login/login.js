@@ -6,7 +6,6 @@ import Grid from "@material-ui/core/Grid";
 import EmailLogin from "../emailLogin/emailLogin";
 import PhoneLogin from "../phoneLogin/phoneLogin";
 import { Styles } from "./loginStyle";
-import { Button } from "@material-ui/core";
 
 class Login extends React.Component {
   render() {

@@ -1,6 +1,6 @@
 import React from "react";
 import { withStyles } from "@material-ui/styles";
-import { ValidatorForm, TextValidator } from "react-material-ui-form-validator";
+import { ValidatorForm } from "react-material-ui-form-validator";
 
 import Button from "@material-ui/core/Button";
 import Grid from "@material-ui/core/Grid";
@@ -12,7 +12,6 @@ import { Styles } from "./../login/loginStyle";
 
 import EmailInbox from "./EmailInbox";
 import PasswordInbox from "./../public/PasswordInbox";
-import ButtonLog from "./../public/Button";
 
 class Login extends React.Component {
   state = {

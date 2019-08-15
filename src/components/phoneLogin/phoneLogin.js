@@ -14,7 +14,6 @@ import { Styles } from "./../login/loginStyle";
 // components imports
 import PhoneInbux from "./PhoneInbox";
 import PasswordInbox from "./../public/PasswordInbox";
-import ButtonLog from "./../public/Button";
 
 class Login extends React.Component {
   state = {
